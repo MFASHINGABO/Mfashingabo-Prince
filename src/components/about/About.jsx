@@ -40,14 +40,8 @@ const About = () => {
             </article>
           </div>
           <p>
-          My experience includes working with various programming languages such as Java, Python, and JavaScript, as well as experience with databases such as MySQL, MongoDB, and Cassandra. I have also worked with cloud platforms such as AWS and Azure, and have experience with containerization and orchestration using Docker and Kubernetes.
-
-          In publishing and graphic design, 
-           Lorem ipsum is a placeholder text commonly used 
-           to demonstrate the visual form of a document or a 
-           typeface without relying on meaningful content. 
-           Lorem ipsum may be used as a placeholder before 
-           final copy is available.
+          My experience includes working with various programming languages such as JavaScript, as well as experience with databases such as MySQL, MongoDB, and Cassandra. I have also worked with cloud platforms such as AWS and Azure, and have experience with containerization and orchestration using Docker and Kubernetes.
+          In publishing and graphic design.
           </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
