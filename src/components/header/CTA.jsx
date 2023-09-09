@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/CV-MFASHINGABO_Prince.pdf'
+import CV from '../../assets/Resume-MFASHINGABO_Prince.pdf'
 
 
 function CTA() {
