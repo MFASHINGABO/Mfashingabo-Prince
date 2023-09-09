@@ -25,7 +25,7 @@ const Portfolio =()=> {
             <div className="portfolio__item-image">
               <img src={IMG2} alt=""/>
             </div>
-           <h3>This is a portfolio item title</h3>
+           <h3>Cleaning Management System with Express , MongoDB</h3>
            <div className="portfolio__item-cta">
            <a href="https://github.com" className='btn' target='_blank'>Github</a>
            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'> Live Demo</a></div>
@@ -34,7 +34,7 @@ const Portfolio =()=> {
             <div className="portfolio__item-image">
               <img src={IMG3} alt=""/>
             </div>
-           <h3>This is a portfolio item title</h3>
+           <h3>Biometric Voting System with SpringMVC ,Spring Security ,...</h3>
            <div className="portfolio__item-cta">
            <a href="https://github.com" className='btn' target='_blank'>Github</a>
            <a href="https://dribbble.com/alien_pixels" className='btn btn-primary' target='_blank'> Live Demo</a></div>
